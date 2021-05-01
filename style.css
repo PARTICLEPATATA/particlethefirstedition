@@ -1,0 +1,108 @@
+h1{
+    font-family: 'Amatic SC', cursive;
+    color:#396c54;
+    text-shadow:2px 2px #94c9bc; 
+    font-size:700%;
+    text-align: center;
+    
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size:medium;
+    font-weight:200;
+    color:black;
+    font-size:200%;
+}
+
+
+#Particle{
+    background:linear-gradient( #00897B 0%,  #004D40 100%);
+    opacity:0.83;
+    overflow:hidden;
+    height:90%;
+    text-align: center;
+}
+
+
+h4{
+    font-size:1500%;
+    font-family: 'Amatic SC', cursive;
+    color:white;
+  
+
+}
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    color:white; 
+    font-size: 350%; 
+}
+
+#Music{
+    text-align:center;
+}
+
+
+
+
+a {
+    font-family: 'Amatic SC', cursive;   
+    font-size: 200%;
+
+}
+
+#navbar-brand{
+    font-family: 'Amatic SC', cursive;   
+    font-size: 200%;
+
+}
+
+h3{
+    font-family: 'Amatic SC', cursive; 
+    font-size:350%; 
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+
+#breaker{
+
+text-align: center;
+}
+
+#p1{
+    font-family: 'Oswald', sans-serif;
+    font-size:700%;
+    
+}
+
+#about_us{
+    text-align:center;
+}
+
+#Disagreeing{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#the_medicine{
+    margin-left: 10%;;
+    margin-right: 10%;; 
+}
+
+#Patriarchy{
+    margin-left:10%;
+    margin-right:10%; 
+}
+
+#feautures{
+    margin-left:10%;
+    margin-right:10%;   
+}
+
+#about_us{
+    margin-left:10%;
+    margin-right:10%;  
+}
